@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    align-items: 20px;
+    align-items:center;
     padding: 46px;
   }
 
